@@ -1,0 +1,2 @@
+SIS-4 Kayıt ekranı için başlangıç dosyası.
+Bu dosya Jira ve GitHub entegrasyonunu test etmek içindir.
