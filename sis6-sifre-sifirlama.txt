@@ -1,0 +1,1 @@
+SIS-6 Şifre sıfırlama ekranı başlangıç dosyası.
